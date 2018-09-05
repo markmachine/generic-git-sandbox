@@ -6,3 +6,7 @@ sandbox for testing git features
 
 - add a file
 - change the readme
+
+#### second rebase test
+
+- add a file
